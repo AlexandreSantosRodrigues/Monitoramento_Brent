@@ -26,8 +26,7 @@ Para garantir que os dados não são sintéticos, duplicados ou corrompidos, a p
 - **Python 3** (`pandas`, `requests`, `yfinance`, `google-cloud-bigquery`)
 - **Google Cloud Platform (GCP)** (BigQuery, IAM)
 - **Kaggle Notebooks** (Orquestração / Cron diário)
-- **Power BI / Looker Studio** (Consumo / Visualização)
-
+- 
 ## 🚀 Como Executar
 1. Crie um projeto no GCP, ative a API do BigQuery e crie o dataset/tabela.
 2. Gere uma chave JSON de uma Service Account com as permissões `BigQuery Data Editor` e `BigQuery User`.
